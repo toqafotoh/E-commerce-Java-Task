@@ -7,7 +7,7 @@ This project represents a simple e-commerce system that demonstrates clear appli
 ---
 
 ## Class Diagram
-
+![Class Diagram](diagram.png)
  
 
 ---
