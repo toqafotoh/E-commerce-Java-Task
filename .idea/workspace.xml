@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="975246e7-9864-4a5e-86bc-1b7380451d17" name="Changes" comment="inital commit adding files">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-commerce OOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/com/fawry/ecommerce/MainApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/com/fawry/ecommerce/exception/EmptyCartException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/com/fawry/ecommerce/exception/ExpiredProductException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/com/fawry/ecommerce/exception/InsufficientBalanceException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/com/fawry/ecommerce/exception/OutOfStockException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/com/fawry/ecommerce/model/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/com/fawry/ecommerce/model/CartItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/com/fawry/ecommerce/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/com/fawry/ecommerce/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/com/fawry/ecommerce/model/ShippingItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/com/fawry/ecommerce/policy/ExpirationPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/com/fawry/ecommerce/policy/FixedExpiration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/com/fawry/ecommerce/policy/NoExpiration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/com/fawry/ecommerce/policy/NoShipping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/com/fawry/ecommerce/policy/PhysicalShipping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/com/fawry/ecommerce/policy/ShippingPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/com/fawry/ecommerce/service/CheckoutService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/com/fawry/ecommerce/service/ShippingService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2zQlbz2Qakyiq9J7IxAdCdar6vN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/user/Downloads/E-commerce OOP",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.main.java.com.fawry.ecommerce.MainApp" />
+      <module name="E-commerce OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.main.java.com.fawry.ecommerce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="975246e7-9864-4a5e-86bc-1b7380451d17" name="Changes" comment="" />
+      <created>1751671256107</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751671256107</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="inital commit adding files" />
+    <option name="LAST_COMMIT_MESSAGE" value="inital commit adding files" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/src/main/java/com/fawry/ecommerce/model/Customer.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

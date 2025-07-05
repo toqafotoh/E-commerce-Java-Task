@@ -1,0 +1,11 @@
+package src.main.java.com.fawry.ecommerce.service;
+
+import src.main.java.com.fawry.ecommerce.model.ShipmentLine;
+
+import java.util.List;
+
+public class ShippingService {
+    public void shipItems(List<ShipmentLine> items) {
+        System.out.println("ShippingService: " + items.size() + " items shipped");
+    }
+}
