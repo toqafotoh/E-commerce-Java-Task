@@ -1,4 +1,4 @@
-package src.main.java.com.fawry.ecommerce.exception;
+package exception;
 
 public class EmptyCartException extends RuntimeException {
     public EmptyCartException(String message) {

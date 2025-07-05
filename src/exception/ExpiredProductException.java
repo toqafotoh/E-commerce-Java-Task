@@ -1,4 +1,4 @@
-package src.main.java.com.fawry.ecommerce.exception;
+package exception;
 
 public class ExpiredProductException extends RuntimeException {
     public ExpiredProductException(String message) {

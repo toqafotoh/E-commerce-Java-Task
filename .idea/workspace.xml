@@ -4,32 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="975246e7-9864-4a5e-86bc-1b7380451d17" name="Changes" comment="inital commit adding files">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/E-commerce OOP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/com/fawry/ecommerce/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/com/fawry/ecommerce/exception/EmptyCartException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/com/fawry/ecommerce/exception/ExpiredProductException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/com/fawry/ecommerce/exception/InsufficientBalanceException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/com/fawry/ecommerce/exception/OutOfStockException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/com/fawry/ecommerce/model/Cart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/com/fawry/ecommerce/model/CartItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/com/fawry/ecommerce/model/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/com/fawry/ecommerce/model/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/com/fawry/ecommerce/model/ShippingItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/com/fawry/ecommerce/policy/ExpirationPolicy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/com/fawry/ecommerce/policy/FixedExpiration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/com/fawry/ecommerce/policy/NoExpiration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/com/fawry/ecommerce/policy/NoShipping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/com/fawry/ecommerce/policy/PhysicalShipping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/com/fawry/ecommerce/policy/ShippingPolicy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/com/fawry/ecommerce/service/CheckoutService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/com/fawry/ecommerce/service/ShippingService.java" afterDir="false" />
-    </list>
+    <list default="true" id="975246e7-9864-4a5e-86bc-1b7380451d17" name="Changes" comment="inital commit adding files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,11 +42,11 @@
 }]]></component>
   <component name="RunManager">
     <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.main.java.com.fawry.ecommerce.MainApp" />
+      <option name="MAIN_CLASS_NAME" value="MainApp" />
       <module name="E-commerce OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.main.java.com.fawry.ecommerce.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>

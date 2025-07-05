@@ -1,7 +1,7 @@
-package src.main.java.com.fawry.ecommerce.service;
+package service;
 
-import src.main.java.com.fawry.ecommerce.exception.*;
-import src.main.java.com.fawry.ecommerce.model.*;
+import exception.*;
+import model.*;
 
 import java.util.ArrayList;
 import java.util.List;

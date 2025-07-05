@@ -1,7 +1,7 @@
-package src.main.java.com.fawry.ecommerce.model;
+package model;
 
-import src.main.java.com.fawry.ecommerce.policy.ExpirationPolicy;
-import src.main.java.com.fawry.ecommerce.policy.ShippingPolicy;
+import policy.ExpirationPolicy;
+import policy.ShippingPolicy;
 
 public class Product {
     private String name;

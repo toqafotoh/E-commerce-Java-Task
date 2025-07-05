@@ -1,4 +1,4 @@
-package src.main.java.com.fawry.ecommerce.model;
+package model;
 
 import java.util.ArrayList;
 import java.util.List;

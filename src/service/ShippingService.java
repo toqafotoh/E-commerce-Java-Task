@@ -1,6 +1,6 @@
-package src.main.java.com.fawry.ecommerce.service;
+package service;
 
-import src.main.java.com.fawry.ecommerce.model.ShipmentLine;
+import model.ShipmentLine;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package src.main.java.com.fawry.ecommerce.exception;
+package exception;
 
 public class InsufficientBalanceException extends RuntimeException {
     public InsufficientBalanceException(String message) {

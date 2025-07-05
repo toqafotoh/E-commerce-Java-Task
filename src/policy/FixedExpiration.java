@@ -1,4 +1,4 @@
-package src.main.java.com.fawry.ecommerce.policy;
+package policy;
 
 import java.time.LocalDate;
 

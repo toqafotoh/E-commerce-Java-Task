@@ -1,4 +1,4 @@
-package src.main.java.com.fawry.ecommerce.policy;
+package policy;
 
 public class NoShipping implements ShippingPolicy {
     @Override

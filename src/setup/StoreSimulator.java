@@ -1,8 +1,8 @@
-package src.main.java.com.fawry.ecommerce.setup;
+package setup;
 
-import src.main.java.com.fawry.ecommerce.model.*;
-import src.main.java.com.fawry.ecommerce.policy.*;
-import src.main.java.com.fawry.ecommerce.service.*;
+import model.*;
+import policy.*;
+import service.*;
 
 import java.time.LocalDate;
 

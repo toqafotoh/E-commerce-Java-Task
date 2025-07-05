@@ -1,4 +1,4 @@
-package src.main.java.com.fawry.ecommerce.model;
+package model;
 
 public class CartItem {
     private Product product;
